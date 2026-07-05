@@ -29,6 +29,48 @@ EduVerse aims to provide students with a single platform where they can easily f
 - GitHub
 - Netlify
 
-- ## Screenshots
+-## Screenshots
 
-Project screenshots will be added here to showcase the user interface and key features of EduVerse.
+### Home Page
+
+![Home Page](Screenshots/home-page.png)
+
+### Branch Selection
+
+![Branch Selection](Screenshots/branch-selection.png)
+
+### Notes Page
+
+![Notes Page](Screenshots/notes-page.png)
+
+### Previous Year Papers
+
+![Previous Papers](Screenshots/previous-papers.png)
+
+### Career Roadmaps
+
+![Career Roadmaps](Screenshots/career-roadmaps.png)
+
+### Teacher–Student Chat
+
+![Teacher Chat](Screenshots/teacher-chat.png)
+
+### About Page
+
+![About Page](Screenshots/about-page.png)
+
+### Contact Page
+
+![Contact Page](Screenshots/contact-page.png)
+
+## Live Demo
+
+Website: https://eduverse-student-platform.netlify.app/
+
+## Author
+
+**Nandani Prajapat**
+
+- LinkedIn: https://www.linkedin.com/in/nandani-prajapat-3124462a3/?skipRedirect=true
+
+
