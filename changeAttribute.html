@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change Attribute</title>
+</head>
+<body>
+
+<img id="myImage" src="https://via.placeholder.com/150" alt="Old Image" width="150">
+
+<br><br>
+
+<button onclick="changeImage()">Change Image</button>
+
+<script>
+function changeImage() {
+    // JavaScript code to change 'src' attribute
+    document.getElementById("myImage").setAttribute("src", "https://via.placeholder.com/300");
+    
+    // Also changing 'alt' text
+    document.getElementById("myImage").setAttribute("alt", "New Image");
+}
+</script>
+
+</body>
+</html>
